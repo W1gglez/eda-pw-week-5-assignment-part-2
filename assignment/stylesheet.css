@@ -1,0 +1,16 @@
+.testHeader {
+     background-color: darkblue;
+     color: lightpink;
+     text-align: center;
+}
+
+.testMain{
+    background-color: lightgrey;
+    padding: 1em;
+}
+
+body{
+    background-image: url('record.png');
+    background-repeat: repeat;
+    margin: 0px;
+}
